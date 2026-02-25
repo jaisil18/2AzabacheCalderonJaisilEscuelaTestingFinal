@@ -1,3 +1,4 @@
+
 # Automatización API Karate (Petstore Swagger)
 
 Este proyecto contiene la automatización de pruebas para los endpoints `store` y `user` de la API de Swagger Petstore, utilizando Karate DSL y Maven. 
