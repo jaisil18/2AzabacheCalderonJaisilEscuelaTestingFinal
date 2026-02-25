@@ -1,0 +1,11 @@
+target/
+*.log
+*.class
+*.lws
+*.ipr
+out/
+
+#Karate
+karate-reports/
+karate-summary.html
+
